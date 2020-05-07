@@ -16,10 +16,10 @@ This fragment replicates the functionality provided by the [Clay Label](https://
 * Error (Red)
 * Success (Green)
 
-![Label Types](/images/label-types.png)
+![Label Types](/doc/images/label-types.png)
 
 Label Sizes:
 * Default (Uppercase text)
 * Large (Lowercase text
 
-![Label Sizes](/images/label-sizes.png)
+![Label Sizes](/doc/images/label-sizes.png)
