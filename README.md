@@ -7,7 +7,7 @@ You can either download the source files and create yourself, or download the ex
 
 ## Label
 
-This fragment replicates the functionality provided by the [Clay Label](https://help.liferay.com/hc/en-us/articles/360028832532-Clay-Labels-and-Links#labels) implemented in Liferay, providing the user with the ability to configure the lable as follows:
+This fragment replicates the functionality provided by the [Clay Label](https://help.liferay.com/hc/en-us/articles/360028832532-Clay-Labels-and-Links#labels) implemented in Liferay, providing the user with the ability to configure the label as follows:
 
 ### Label Types:
 * Secondary (Gray) (Default)
