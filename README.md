@@ -18,8 +18,12 @@ This fragment replicates the functionality provided by the [Clay Label](https://
 
 ![Label Types](/doc/images/label-types.png)
 
-Label Sizes:
+### Label Sizes:
 * Default (Uppercase text)
 * Large (Lowercase text
 
 ![Label Sizes](/doc/images/label-sizes.png)
+
+To use, deploy the fragment to a page, then click the Cog icon to choose configuration options and configure for type and size.  To change the label text, click the Edit icon.
+
+![Label Configuration](/doc/images/label-config.png)
