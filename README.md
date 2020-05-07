@@ -27,3 +27,12 @@ This fragment replicates the functionality provided by the [Clay Label](https://
 To use, deploy the fragment to a page, then click the Cog icon to choose configuration options and configure for type and size.  To change the label text, click the Edit icon.
 
 ![Label Configuration](/doc/images/label-config.png)
+
+## Zingtree
+
+This fragment provides the opportunity to embed a [Zingtree](https://zingtree.com/) Decision Tree within a Liferay Page.
+
+The fragment can be configured to allow the user to enter the ID of the desired Zingtree.
+
+![Zingtree Configuration](/doc/images/zingtree-config.png)
+
