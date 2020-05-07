@@ -1,2 +1,25 @@
 # Page Fragments
-Collection of Page Fragments for Liferay DXP
+A collection of Page Fragments for Liferay DXP.
+
+These Fragments were developed using the [Fragment Editor](https://help.liferay.com/hc/en-us/articles/360029046471-Developing-Fragments), and then exported to ZIP file.
+
+You can either download the source files and create yourself, or download the exported ZIP file and import into your own environment.
+
+## Label
+
+This fragment replicates the functionality provided by the [Clay Label](https://help.liferay.com/hc/en-us/articles/360028832532-Clay-Labels-and-Links#labels) implemented in Liferay, providing the user with the ability to configure the lable as follows:
+
+### Label Types:
+* Secondary (Gray) (Default)
+* Info (Blue)
+* Warning (Orange)
+* Error (Red)
+* Success (Green)
+
+![Label Types](/images/label-types.png)
+
+Label Sizes:
+* Default (Uppercase text)
+* Large (Lowercase text
+
+![Label Sizes](/images/label-sizes.png)
