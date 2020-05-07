@@ -1,0 +1,53 @@
+{
+	"fieldSets": [
+		{
+			"fields": [
+				{
+					"dataType": "string",
+					"defaultValue": "secondary",
+					"label": "type",
+					"name": "labelType",
+					"type": "select",
+					"typeOptions": {
+						"validValues": [
+							{
+								"value": "secondary"
+							},
+							{
+								"value": "info"
+							},
+							{
+								"value": "warning"
+							},
+							{
+								"value": "danger"
+							},
+							{
+								"value": "success"
+							}
+						]
+					}
+				},
+				{
+					"dataType": "string",
+					"defaultValue": "",
+					"label": "size",
+					"name": "labelSize",
+					"type": "select",
+					"typeOptions": {
+						"validValues": [
+							{
+								"label": "normal",
+								"value": ""
+							},
+							{
+								"label": "large",
+								"value": "label-lg"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}
